@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39a012ca4651e3542bb8d391483b48dc, type: 3}
+  m_Name: RevealedSquare
+  m_EditorClassIdentifier: 
+  Sprites:
+  - {fileID: 21300000, guid: 4d35296f06c27a44b9fd329aebb7f5a9, type: 3}
+  - {fileID: 21300000, guid: e3ff5a75ea83809469409f0d824efe18, type: 3}
+  - {fileID: 21300000, guid: 4a245e04f328f324a8d411e899335945, type: 3}
+  - {fileID: 21300000, guid: 9bce6f99d347b384fafe1a8f88a55fb7, type: 3}
+  - {fileID: 21300000, guid: 3f1f228dce598c9499077ef63964a591, type: 3}
+  - {fileID: 21300000, guid: 28e313ffd37c60e4e8439fce65eddba8, type: 3}
+  - {fileID: 21300000, guid: 7cce069769c9bb944a275f868628d716, type: 3}
+  - {fileID: 21300000, guid: e54fdd1abe9c86a45bd2d0073d04ddca, type: 3}
+  - {fileID: 21300000, guid: a874ee5d83f9c7447a3facd533b5f822, type: 3}
+  - {fileID: 21300000, guid: b565da850c7cfe94685f929eb804a991, type: 3}
